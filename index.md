@@ -2,7 +2,6 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
@@ -10,9 +9,9 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Work Experience
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Experienced Technical Solutions Consultant with a demonstrated history of working in the information technology and services industry. Skilled in AWS ,Linux, Migration Projects, DevOps, and HPE Storage Products. Strong information technology professional with a Bachelor of Technology - BTech focused in Electronic and Communications Engineering Technology. 
 
 ## Header 2
 

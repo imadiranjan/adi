@@ -3,3 +3,9 @@ description: This page is a professional introduction about me
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+social-network-links:
+  rss: true
+  email: "someone@example.com"
+  facebook: deanattali
+  github: daattali
+  twitter: daattali

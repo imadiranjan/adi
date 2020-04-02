@@ -11,36 +11,25 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Work Experience
 
-Experienced Technical Solutions Consultant with a demonstrated history of working in the information technology and services industry. Skilled in AWS ,Linux, Migration Projects, DevOps, and HPE Storage Products. Strong information technology professional with a Bachelor of Technology - BTech focused in Electronic and Communications Engineering Technology. 
+Experienced Technical Consultant with a demonstrated history of working in the information technology and services industry. Skilled in AWS, Windows and Linux Servers, Migration Projects, DevOps, and HPE Storage Products. Strong information technology professional with a Bachelor of Technology - BTech focused in Electronic and Communications Engineering Technology. 
 
-## Header 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+#### SKILL-SET:
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+* Amazon Web Services - EC2, VPC, S3, Cloudwatch, Cloudformation, etc.
+* MS Active Directory
+* DevOps-GitHub, Puppet, Ansible, Docker
+* Redhat Linux , CentOS, Amazon Linux.
+* Networking Fundamentals
+* MS Powershell
+* Python Basics
+* HPE Storage products
+* VMWARE , vSphere
+* Understanding of communication technologies  
+* Work experience on Migration tool
+* MS Office , G- Suite
+* Good communication, interpersonal and writing skills
+* Ability to deal with people diplomatically.
 
 ##### Header 5
 
@@ -104,13 +93,13 @@ end
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
+<dd>Aditya Ranjan</dd>
 <dt>Born</dt>
-<dd>1952</dd>
+<dd>1995</dd>
 <dt>Birthplace</dt>
-<dd>Japan</dd>
+<dd>Gorakhpur</dd>
 <dt>Color</dt>
-<dd>Green</dd>
+<dd>Blue</dd>
 </dl>
 
 ```
